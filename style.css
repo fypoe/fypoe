@@ -1,6 +1,8 @@
 body {
-   background: none;
+   background: black;
+   color: white;
 }
-.main {
+div.main {
   margin: auto;
+  background-color: brown;
 }
