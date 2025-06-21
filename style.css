@@ -5,4 +5,5 @@ body {
 div.main {
   margin: auto !important;
   background-color: brown;
+  width: 50%;
 }
