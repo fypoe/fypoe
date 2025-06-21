@@ -3,6 +3,6 @@ body {
    color: white;
 }
 div.main {
-  margin: auto;
+  margin: auto !important;
   background-color: brown;
 }
