@@ -9,3 +9,7 @@ div.main {
 div.title {
    background-color: brown;
 }
+a {
+   text-decoration: none;
+   color: white;
+}
