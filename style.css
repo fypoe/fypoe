@@ -1,13 +1,14 @@
 body {
    background: black;
    color: white;
+   font-family: "Tinos", serif;
 }
 div.main {
   margin: auto !important;
   width: 50%;
 }
 div.title {
-   background-color: brown;
+      margin: auto;
 }
 a {
    text-decoration: none;
@@ -16,8 +17,11 @@ a {
 div.nav {
    float: left;
    margin: 0;
-   background-color: rgb(33, 61, 99);
 }
 div.container {
    margin-left: 25%;
+}
+img {
+    display: block;
+    margin: auto;
 }
